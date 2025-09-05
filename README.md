@@ -99,9 +99,6 @@ This project is licensed under the MIT License.
 yaml
 Copy code
 
----
-
-👉 Do you want me to also give you the **sample Node.js code (Express + MongoDB CRUD APIs)** so that you can directly use it in this repo?
 
 
 
