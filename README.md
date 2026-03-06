@@ -40,7 +40,7 @@ Copy code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crud-node-postman.git
+   git clone https://github.com/nikhilkeshavmali/crud-node-postman.git
    cd crud-node-postman
 Install dependencies:
 
@@ -81,7 +81,7 @@ Copy code
   "name": "Sample Item",
   "price": 200
 }
-📸 Screenshots
+
 ✅ Create (POST)
 
 📖 Read (GET)
@@ -95,15 +95,3 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 📜 License
 This project is licensed under the MIT License.
-
-yaml
-Copy code
-
-
-
-
-
-
-
-
-Ask ChatGPT
